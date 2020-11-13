@@ -3,6 +3,7 @@ Code Fellows 401, Lab 04
 JB Tellez
 
 Contributors: Yonatan Palagashvili
+Pull Request: https://github.com/Yonatan1P/pythonic-garage-band/pull/1
 ## Object Oriented Programming
 Use Python classes to model a Band made up of different kinds of musicians.
 
